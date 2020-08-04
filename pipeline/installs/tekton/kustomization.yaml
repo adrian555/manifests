@@ -23,13 +23,13 @@ images:
     newTag: RELEASE.2018-02-09T22-40-05Z
   - name: gcr.io/ml-pipeline/api-server
     newName: docker.io/aipipeline/api-server
-    newTag: 0.5.1
+    newTag: 1.0.0
   - name: gcr.io/ml-pipeline/persistenceagent
     newName: docker.io/aipipeline/persistenceagent
-    newTag: 0.5.1
+    newTag: 1.0.0
   - name: gcr.io/ml-pipeline/frontend
     newName: docker.io/aipipeline/frontend
-    newTag: 0.5.1
+    newTag: 1.0.0
   - name: gcr.io/ml-pipeline/metadata-writer
     newName: docker.io/aipipeline/metadata-writer
-    newTag: 0.5.1
+    newTag: 1.0.0
